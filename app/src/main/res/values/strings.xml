@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SpinerLearning</string>
+
+
+    <string-array name="programming_name">
+
+        <item>Dart</item>
+        <item>Fluter</item>
+        <item>Java</item>
+        <item>Java Script</item>
+        <item>Kotlin</item>
+        <item>Php</item>
+        <item>Python</item>
+
+    </string-array>
+
+    <string name="kotlinPro_text">
+
+        Java is a popular general-purpose programming language and computing platform.\n
+        It is fast, reliable, and secure. According to Oracle, the company that\n
+        owns Java, Java runs on 3 billion devices worldwide.\n
+
+        Considering the number of Java developers, devices running Java,\n and companies adapting
+        it, its safe to say that Java will be around for many years to come.\n
+
+        This guide will provide everything you need to know about\n
+        Java programming language before you learn it. More specifically,\n
+        you will learn about features of Java programming,\n
+        its applications, reasons to learn it, and how you can learn it the right way.\n</string>
+
+
+    <string-array name="programming_familar">
+
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>40</item>
+        <item>25</item>
+        <item>60</item>
+        <item>80</item>
+
+    </string-array>
+
+
+</resources>
